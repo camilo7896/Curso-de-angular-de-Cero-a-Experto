@@ -14,18 +14,18 @@ interface Personaje{
 export class MainPageComponent {
 
   personajes:Personaje[]=[
-    {
-      nombre:'Goku',
-      poder:15000
-    },
-    {
-      nombre:'Vegueta',
-      poder:13000
-    },
-    {
-      nombre:'crillin',
-      poder:7000
-    }
+    // {
+    //   nombre:'Goku',
+    //   poder:15000
+    // },
+    // {
+    //   nombre:'Vegueta',
+    //   poder:13000
+    // },
+    // {
+    //   nombre:'crillin',
+    //   poder:7000
+    // }
   ]
 
 nuevo:Personaje={
